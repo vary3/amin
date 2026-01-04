@@ -1,4 +1,4 @@
-# Pinklady
+# amin
 
 WXT（TypeScript）+ React で構築した Chrome 拡張（MV3）です。
 
